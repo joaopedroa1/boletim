@@ -1,0 +1,14 @@
+@import "Itens.CSS";
+@import "nav.css";
+body{
+    width: 100%;
+    display:flex;
+    font-size: 50px;
+    color: rgba(0, 178, 187, 0.726);
+    justify-content: center;
+}
+p{
+    font-size: 50px;
+    color: rgba(0, 178, 187, 0.726);
+    margin-left: 31%;
+}
